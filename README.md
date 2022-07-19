@@ -1,2 +1,2 @@
 # cwindowssystem32_OEM
-# This is not a real REM. 
+# This is not a real OEM. 
